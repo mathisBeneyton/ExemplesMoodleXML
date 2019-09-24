@@ -39,7 +39,7 @@
 				<text>Bravo !</text>
 			</feedback>
 		</answer>
-		<answer fraction="0">
+		<answer fraction="2">
 			<text>Une mauvaise réponse</text>
 			<feedback>
 				<text>Ooops!</text>

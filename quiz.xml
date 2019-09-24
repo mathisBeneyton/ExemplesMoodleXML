@@ -39,7 +39,11 @@
 				<text>Bravo !</text>
 			</feedback>
 		</answer>
+<<<<<<< HEAD
 		<answer fraction="1">
+=======
+		<answer fraction="4">
+>>>>>>> f6373d0bae092fc51aace8495fe4f016aaf463b7
 			<text>Une mauvaise réponse</text>
 			<feedback>
 				<text>Ooops!</text>
